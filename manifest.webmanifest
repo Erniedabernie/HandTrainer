@@ -1,0 +1,29 @@
+{
+  "name": "Wrist rehab \u2014 EDB",
+  "short_name": "Wrist rehab",
+  "description": "Four-week rehabilitation block after a left scapholunate reconstruction.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#003366",
+  "theme_color": "#050a0e",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
